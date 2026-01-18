@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data (Optional: keep if small, ignore if large)
+# customer_sales_data.csv
+
+# IDEs
+.vscode/
+.idea/
